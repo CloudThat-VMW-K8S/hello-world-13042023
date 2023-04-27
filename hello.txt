@@ -1,5 +1,1 @@
-Testing the Git Braching!!!
-Simulating a debug
-
-Testing CD!
-Testing Docker Build and Docker Run.
+Welcome to CLoudThat DevOps training!
