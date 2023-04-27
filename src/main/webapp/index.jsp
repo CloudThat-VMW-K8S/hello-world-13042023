@@ -3,7 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Hello World!, Testing CI/CD, Testing again</h1>
+	<h1>Testing CI/CD on 28 April 2023</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
