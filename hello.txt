@@ -1,3 +1,4 @@
 Test Local
 
 Test Jenkins Slave
+Test CD
